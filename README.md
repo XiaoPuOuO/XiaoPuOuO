@@ -36,6 +36,16 @@
 
 ---
 
+## 📂 精選作品集
+
+- [**UniqueCharEditor**](https://github.com/XiaoPuOuO/UniqueCharEditor)  
+  📝 輕量級唯一字元檔案編輯器，支援字型設計、遊戲字庫、缺字比對等，Windows 可執行檔＋原始碼開源。
+
+> 更多作品、Demo 或合作邀約，歡迎私訊聯絡！
+
+
+---
+
 ## 💡 歡迎交流
 
 - 對技術、遊戲、AI、資安、獨立開發有興趣，歡迎聯絡我！
