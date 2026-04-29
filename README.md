@@ -1,56 +1,46 @@
-# 👋 嗨，我是小溥
+# Hi, I'm XiaoPu (小溥)
 
-> 熱愛程式、遊戲開發，享受打造屬於自己的世界。  
-> 解決問題、持續學習，讓想法成真。
-
----
-
-## 🧑‍💻 關於我
-
-- 全端程式設計師 / 獨立遊戲開發者 / 系統架構師
-- 擅長 0 → 1 架構設計與實作
-- 技能專長：PHP (Laravel)、Java (Netty)、Unity (C#)、JavaScript
-- 關注領域：遊戲伺服器、網路安全、效能優化、AI 應用
-- 熱愛挑戰難題，樂於技術分享與學習交流
+I like building systems end-to-end—architecture first, then the boring work that makes them reliable. These days I care most about **how humans and AI share responsibility**: clear handoffs, reviewable outputs, and workflows that don’t fall apart in production.
 
 ---
 
-## 🔧 技術棧
+## About me
 
-- **後端**：PHP (Laravel)、Java (Netty)
-- **前端**：JavaScript（原生 / jQuery / Blade）、Unity UI、Tailwind CSS
-- **資料庫**：MySQL、MariaDB
-- **運維**：Linux、XAMPP、VPS
-- **其他**：ECPay 金流串接、資安防護、API 設計、網站效能優化、功能模組化
+- **Systems & architecture** — structuring services, boundaries, and data flows; designing for change, not just demos  
+- **Product / PM-minded** — scoping trade-offs, sequencing delivery, writing specs people can actually implement  
+- **AI collaboration** — treating models as part of the team: governance, approvals, observability, and when *not* to automate  
 
----
-
-## 🚀 實戰經歷
-
-- 多人跨平台競技遊戲 Client-Server 架構設計與開發
-- Unity 跨平台小遊戲 / 工具 / UI 開發
-- 商用網站、金流、會員、商城等系統建置
-- 流程與工具自動化專案
-- 各式企業／個人網站前後端一條龍開發
-- Minecraft MMORPG 伺服器與插件開發
+Background-wise I’ve shipped backends, game-related networking, and full-stack web work; I’m less interested in listing buzzwords than in **making complex setups understandable and operable**.
 
 ---
 
-## 📂 精選作品集
+## Tech I’ve worked with (high level)
 
-- [**UniqueCharEditor**](https://github.com/XiaoPuOuO/UniqueCharEditor)  
-  📝 輕量級唯一字元檔案編輯器，支援字型設計、遊戲字庫、缺字比對等，Windows 可執行檔＋原始碼開源。
+- **Backend**: PHP (Laravel), Java (Netty), Node.js / TypeScript ecosystems  
+- **Frontend**: JavaScript, Unity (C#) UI, pragmatic HTML/CSS stacks  
+- **Data & ops**: MySQL / MariaDB, Linux, VPS-style deployments, performance and security-minded habits  
+- **Other**: payments integration, API design, modular features, automation  
 
-> 更多作品、Demo 或合作邀約，歡迎私訊聯絡！
-
-
----
-
-## 💡 歡迎交流
-
-- 對技術、遊戲、AI、資安、獨立開發有興趣，歡迎聯絡我！
-- 樂於合作、共創 side project、技術討論
+*Tools change; the habit is: draw the box diagram, then argue with it until it survives real users.*
 
 ---
 
-> **持續精進，把夢想寫成現實。**
+## Selected work
+
+### [VFactory](https://github.com/XiaoPuOuO/VFactory)
+
+A **self-hosted control plane** for AI coding agents (forked from [Paperclip](https://github.com/paperclipai/paperclip)). I use it to think seriously about **orchestration, human-in-the-loop approvals, cost visibility, and browser-backed automation**—i.e. AI as infrastructure, not a chat window.
+
+### [UniqueCharEditor](https://github.com/XiaoPuOuO/UniqueCharEditor)
+
+A lightweight editor for unique-character / font-adjacent workflows (game glyph sets, missing-glyph checks, etc.). Ships as a Windows build with open source.
+
+---
+
+## Let’s talk
+
+If you’re into **architecture, product craft, or practical AI + human workflows**, feel free to reach out. I’m open to collaboration, side projects, and honest technical discussion.
+
+---
+
+*Still learning. Still shipping.*
