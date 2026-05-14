@@ -35,6 +35,10 @@ A **self-hosted control plane** for AI coding agents (forked from [Paperclip](ht
 
 A lightweight editor for unique-character / font-adjacent workflows (game glyph sets, missing-glyph checks, etc.). Ships as a Windows build with open source.
 
+### [Browser-use-mcpserver](https://github.com/XiaoPuOuO/Browser-use-mcpserver)
+
+MCP server for browser-use: browser automation in Cursor via stdio; LLM backend = local Cursor Agent CLI (agent) or OpenAI-compatible APIs (LM Studio, Ollama, etc.).
+
 ---
 
 ## Let’s talk
