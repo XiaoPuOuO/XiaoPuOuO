@@ -52,18 +52,11 @@ A **self-hosted control plane for AI coding agents**, forked from [Paperclip](ht
 
 I'm exploring what software development looks like when agents become persistent infrastructure rather than isolated chat sessions: multiple agents, execution environments, browser access, approvals, cost visibility, and orchestration around real engineering work.
 
-### [Browser-use-mcpserver](https://github.com/XiaoPuOuO/Browser-use-mcpserver)
-
-An MCP server that connects **browser-use with AI coding environments**.
-
-It supports Cursor Agent CLI as an agent backend as well as OpenAI-compatible endpoints such as LM Studio and Ollama, making browser automation usable from both hosted and local model workflows.
-
 ### [UniqueCharEditor](https://github.com/XiaoPuOuO/UniqueCharEditor)
 
 An open-source Windows tool for **game font and glyph workflows**, including unique-character extraction and missing-glyph detection.
 
 Built because manually debugging large character sets is a terrible use of human time.
-
 ---
 
 ## Currently exploring
