@@ -44,13 +44,13 @@ Tools change. The interesting part is deciding **where they belong in the system
 
 ---
 
-## Selected work
+## Things I've built
 
 ### [VFactory](https://github.com/XiaoPuOuO/VFactory)
 
-A **self-hosted control plane for AI coding agents**, forked from [Paperclip](https://github.com/paperclipai/paperclip).
+An experiment in **self-hosted infrastructure for AI coding agents**, forked from [Paperclip](https://github.com/paperclipai/paperclip).
 
-I'm exploring what software development looks like when agents become persistent infrastructure rather than isolated chat sessions: multiple agents, execution environments, browser access, approvals, cost visibility, and orchestration around real engineering work.
+I used it to explore persistent agents, execution environments, approvals, cost visibility, browser-backed workflows, and orchestration around real engineering work.
 
 ### [UniqueCharEditor](https://github.com/XiaoPuOuO/UniqueCharEditor)
 
