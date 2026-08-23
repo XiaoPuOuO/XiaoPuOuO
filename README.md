@@ -1,25 +1,24 @@
 # Hi, I'm XiaoPu (小溥)
 
-I build systems **end-to-end**—from product architecture and backend services to frontend, infrastructure, integrations, and AI.
+I build **AI-native products and the systems behind them**.
 
-I care about systems that remain understandable and operable as they grow: clear boundaries, explicit ownership, observable state transitions, controlled failure modes, and infrastructure that survives beyond the demo.
+My favorite projects start as a messy problem and end up spanning product design, system architecture, backend, frontend, infrastructure, integrations, and AI.
 
-These days, I’m particularly interested in **AI-native systems and agent infrastructure**: how models interact with tools, data, permissions, humans, and production systems—and how to make those interactions reliable, reviewable, and controllable.
+I'm especially interested in what happens when AI stops being a feature and becomes part of the software architecture: agents using tools, operating on real application state, coordinating work, and knowing when control should return to a human.
 
 ---
 
-## What I work on
+## What I build
 
-- **Systems & architecture** — service boundaries, data flows, state ownership, failure modes, and architectures designed for change
-- **AI agents & orchestration** — tool use, MCP, multi-model systems, human-in-the-loop workflows, browser automation, and local/API-hosted models
-- **Product engineering** — translating product requirements into systems that can actually be implemented, operated, and evolved
-- **Backend & infrastructure** — APIs, databases, networking, payments, deployments, observability, performance, and reliability
-- **Developer tooling & automation** — building reusable systems around repetitive or complex engineering workflows
-- **Governance & control** — permissions, approval gates, auditability, idempotency, and keeping AI actions inside explicit system boundaries
+- **AI-native systems** — agents, tool use, MCP, multi-model routing, local models, browser automation, and human-in-the-loop execution
+- **Product systems** — turning product ideas into coherent workflows, interfaces, data models, and abstractions
+- **Backend & infrastructure** — APIs, databases, networking, payments, deployments, reliability, and observability
+- **Developer tooling** — infrastructure for making humans and AI faster at building software
+- **End-to-end products** — I like owning the path from architecture diagram to something people can actually use
 
-A question I keep coming back to:
+I care a lot about questions like:
 
-**What owns what? Where does state live? What can fail? Who is allowed to change it?**
+**Where should intelligence live? What should be deterministic? What can an agent change? What happens when it fails?**
 
 ---
 
@@ -31,17 +30,17 @@ A question I keep coming back to:
 
 ### Data & infrastructure
 
-`PostgreSQL` · `MySQL / MariaDB` · `Redis` · `Linux` · `VPS / Self-hosted Infrastructure` · `CI/CD` · `Monitoring & Alerting` · `Backup & Recovery`
+`PostgreSQL` · `MySQL / MariaDB` · `Redis` · `Linux` · `CI/CD` · `Monitoring` · `Self-hosted Infrastructure`
 
 ### AI & automation
 
-`MCP` · `LLM APIs` · `Local LLMs` · `Agent Workflows` · `Multi-model Systems` · `Browser Automation` · `LINE Messaging API` · `Web / PWA Audio`
+`MCP` · `LLM APIs` · `Local LLMs` · `Agent Systems` · `Multi-model Systems` · `Browser Automation` · `LINE Messaging API` · `Web / PWA Audio`
 
-### Architecture & engineering
+### Systems
 
-`Hexagonal Architecture` · `API Design` · `RBAC` · `Idempotency` · `Audit Logging` · `Automated Testing` · `Contract Testing` · `Security Testing` · `Load & Resilience Testing`
+`Hexagonal Architecture` · `API Design` · `RBAC` · `Idempotency` · `Audit Logging` · `Automated Testing` · `Contract Testing` · `Resilience Testing`
 
-Tools change. I care more about understanding the system well enough to choose the right ones.
+Tools change. The interesting part is deciding **where they belong in the system**.
 
 ---
 
@@ -51,28 +50,28 @@ Tools change. I care more about understanding the system well enough to choose t
 
 A **self-hosted control plane for AI coding agents**, forked from [Paperclip](https://github.com/paperclipai/paperclip).
 
-I use it to explore what happens when AI agents become infrastructure rather than chat windows: orchestration, execution lifecycle, human approvals, cost visibility, browser-backed automation, and operating multiple agents as a system.
+I'm exploring what software development looks like when agents become persistent infrastructure rather than isolated chat sessions: multiple agents, execution environments, browser access, approvals, cost visibility, and orchestration around real engineering work.
 
 ### [Browser-use-mcpserver](https://github.com/XiaoPuOuO/Browser-use-mcpserver)
 
-An MCP server for bringing **browser-use automation into Cursor** over stdio.
+An MCP server that connects **browser-use with AI coding environments**.
 
-It can use the local Cursor Agent CLI as its agent backend or connect to OpenAI-compatible endpoints such as LM Studio and Ollama.
+It supports Cursor Agent CLI as an agent backend as well as OpenAI-compatible endpoints such as LM Studio and Ollama, making browser automation usable from both hosted and local model workflows.
 
 ### [UniqueCharEditor](https://github.com/XiaoPuOuO/UniqueCharEditor)
 
-A lightweight editor for **game font and glyph workflows**, including unique-character sets and missing-glyph detection.
+An open-source Windows tool for **game font and glyph workflows**, including unique-character extraction and missing-glyph detection.
 
-Available as an open-source Windows build.
+Built because manually debugging large character sets is a terrible use of human time.
+
+---
+
+## Currently exploring
+
+**AI agents · AI-native product architecture · developer infrastructure · human × AI workflows · systems that can act, not just answer**
 
 ---
 
-## Let's talk
-
-I'm interested in **AI agents, system architecture, developer tooling, product engineering, and ambitious software systems**.
-
-If you're working on something interesting in those areas, feel free to reach out.
-
----
+If you're building something ambitious around AI or software infrastructure, I'd be happy to talk.
 
 *Still learning. Still building.*
