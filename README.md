@@ -52,11 +52,18 @@ An experiment in **self-hosted infrastructure for AI coding agents**, forked fro
 
 I used it to explore persistent agents, execution environments, approvals, cost visibility, browser-backed workflows, and orchestration around real engineering work.
 
+### [Cursor Dream Skin](https://github.com/XiaoPuOuO/cursor-dream-skin)
+
+A **notarized macOS menu bar app** that skins the **Cursor Agents** window through local loopback CDP injection — wallpapers, glass UI, theme switching, and Codex theme import — without modifying the official Cursor app.
+
+Inspired by [Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin), but scoped to Cursor's agent surface: inject only where humans actually pair with AI, keep the IDE chrome native, and make re-application automatic across reloads.
+
 ### [UniqueCharEditor](https://github.com/XiaoPuOuO/UniqueCharEditor)
 
 An open-source Windows tool for **game font and glyph workflows**, including unique-character extraction and missing-glyph detection.
 
 Built because manually debugging large character sets is a terrible use of human time.
+
 ---
 
 ## Currently exploring
