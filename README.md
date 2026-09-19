@@ -46,6 +46,12 @@ Tools change. The interesting part is deciding **where they belong in the system
 
 ## Things I've built
 
+### [chatgpt-image-bridge](https://github.com/XiaoPuOuO/chatgpt-image-bridge)
+
+A **zero-dependency CLI and MCP server** that turns the ChatGPT Desktop App into an image-generation tool any AI agent can call.
+
+No API reverse-engineering, no extra subscription: it relaunches the app with loopback CDP, injects the prompt into the chat composer, waits for generation to finish, and recovers the PNG straight from the DOM. Cross-process file locking lets multiple agents queue against one app instance safely. Same CDP trick as Codex Dream Skin — but pointed at capability instead of cosmetics.
+
 ### [VFactory](https://github.com/XiaoPuOuO/VFactory)
 
 An experiment in **self-hosted infrastructure for AI coding agents**, forked from [Paperclip](https://github.com/paperclipai/paperclip).
