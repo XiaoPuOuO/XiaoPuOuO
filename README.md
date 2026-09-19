@@ -64,6 +64,12 @@ A **notarized macOS menu bar app** that skins the **Cursor Agents** window throu
 
 Inspired by [Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin), but scoped to Cursor's agent surface: inject only where humans actually pair with AI, keep the IDE chrome native, and make re-application automatic across reloads.
 
+### [OpenCode Dream Skin](https://github.com/XiaoPuOuO/opencode-dream-skin)
+
+A **macOS menu bar app** that skins **OpenCode Desktop** through local loopback CDP injection — wallpapers, glass themes, one-click restore — without touching the official install.
+
+The third skin in the same family (Codex → Cursor → OpenCode), keeping the shared discipline: non-destructive, reversible, auto re-apply on login, and theme-pack compatible with Codex Dream Skin.
+
 ### [UniqueCharEditor](https://github.com/XiaoPuOuO/UniqueCharEditor)
 
 An open-source Windows tool for **game font and glyph workflows**, including unique-character extraction and missing-glyph detection.
