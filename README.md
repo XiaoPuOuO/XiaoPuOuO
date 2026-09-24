@@ -46,6 +46,12 @@ Tools change. The interesting part is deciding **where they belong in the system
 
 ## Things I've built
 
+### [openchatx-mcp](https://github.com/XiaoPuOuO/openchatx-mcp)
+
+A **local agent runtime and MCP gateway for ChatGPT** that gives a normal conversation controlled access to local execution, files, tools, external MCP servers, and provider-backed subagents.
+
+It keeps the main tool surface small through lazy capability discovery: ChatGPT can discover and invoke Blender, Unreal, browser automation, custom TypeScript toolboxes, local models, and other connected capabilities only when a task actually needs them. The result is a practical bridge between a cloud planner and a user-controlled local runtime.
+
 ### [chatgpt-image-bridge](https://github.com/XiaoPuOuO/chatgpt-image-bridge)
 
 A **zero-dependency CLI and MCP server** that turns the ChatGPT Desktop App into an image-generation tool any AI agent can call.
