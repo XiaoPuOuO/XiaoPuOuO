@@ -52,12 +52,6 @@ A **zero-dependency CLI and MCP server** that turns the ChatGPT Desktop App into
 
 No API reverse-engineering, no extra subscription: it relaunches the app with loopback CDP, injects the prompt into the chat composer, waits for generation to finish, and recovers the PNG straight from the DOM. Cross-process file locking lets multiple agents queue against one app instance safely. Same CDP trick as Codex Dream Skin — but pointed at capability instead of cosmetics.
 
-### [VFactory](https://github.com/XiaoPuOuO/VFactory)
-
-An experiment in **self-hosted infrastructure for AI coding agents**, forked from [Paperclip](https://github.com/paperclipai/paperclip).
-
-I used it to explore persistent agents, execution environments, approvals, cost visibility, browser-backed workflows, and orchestration around real engineering work.
-
 ### [Cursor Dream Skin](https://github.com/XiaoPuOuO/cursor-dream-skin)
 
 A **notarized macOS menu bar app** that skins the **Cursor Agents** window through local loopback CDP injection — wallpapers, glass UI, theme switching, and Codex theme import — without modifying the official Cursor app.
