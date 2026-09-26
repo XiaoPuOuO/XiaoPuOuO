@@ -2,10 +2,6 @@
 
 I build **AI-native products and the systems behind them**.
 
-My favorite projects start as a messy problem and end up spanning product design, system architecture, backend, frontend, infrastructure, integrations, and AI.
-
-I'm especially interested in what happens when AI stops being a feature and becomes part of the software architecture: agents using tools, operating on real application state, coordinating work, and knowing when control should return to a human.
-
 ---
 
 ## Things I've built
