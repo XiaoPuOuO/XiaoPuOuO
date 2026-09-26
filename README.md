@@ -22,28 +22,6 @@ I care a lot about questions like:
 
 ---
 
-## Tech
-
-### Languages & frameworks
-
-`TypeScript` · `JavaScript` · `Node.js` · `React` · `Express` · `Prisma` · `PHP / Laravel` · `Java / Netty` · `C# / Unity`
-
-### Data & infrastructure
-
-`PostgreSQL` · `MySQL / MariaDB` · `Redis` · `Linux` · `CI/CD` · `Monitoring` · `Self-hosted Infrastructure`
-
-### AI & automation
-
-`MCP` · `LLM APIs` · `Local LLMs` · `Agent Systems` · `Multi-model Systems` · `Browser Automation` · `LINE Messaging API` · `Web / PWA Audio`
-
-### Systems
-
-`Hexagonal Architecture` · `API Design` · `RBAC` · `Idempotency` · `Audit Logging` · `Automated Testing` · `Contract Testing` · `Resilience Testing`
-
-Tools change. The interesting part is deciding **where they belong in the system**.
-
----
-
 ## Things I've built
 
 ### [openchatx-mcp](https://github.com/XiaoPuOuO/openchatx-mcp)
